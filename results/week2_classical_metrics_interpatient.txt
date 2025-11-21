@@ -1,0 +1,18 @@
+=== Logistic Regression (Inter-Patient) ===
+Accuracy: 0.7679
+Precision (Abnormal): 0.8946
+Recall (Abnormal/Sensitivity): 0.5882
+F1-Score (Abnormal): 0.7097
+
+=== SVM (Inter-Patient) ===
+Accuracy: 0.9308
+Precision (Abnormal): 0.9989
+Recall (Abnormal/Sensitivity): 0.8576
+F1-Score (Abnormal): 0.9229
+
+=== Random Forest (Inter-Patient) ===
+Accuracy: 0.8995
+Precision (Abnormal): 0.9322
+Recall (Abnormal/Sensitivity): 0.8538
+F1-Score (Abnormal): 0.8913
+
